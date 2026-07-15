@@ -1,23 +1,45 @@
 # Estate Agent Newsletters
 
-> Estate Agent Newsletters is a done-for-you, weekly local email newsletter service for UK estate agents. It helps an agency become the go-to, most-recognised name in its area and win more instructions from sellers and landlords. Each newsletter is exclusive to a single agency per area.
+> Estate Agent Newsletters is a done-for-you, weekly local email newsletter service for UK estate agents. It builds trust with local homeowners months before they are ready to move, so the agency wins more instructions from sellers and landlords. Each newsletter is exclusive to one agency per postcode area.
 
-Every Thursday morning we send an agency's professionally written newsletter, in the agency's own branding. Each edition features the latest local events and businesses, a local property market update, and the agency's Property of the Week. It is genuinely useful local content that homeowners look forward to opening.
+## What it is
 
-The service is completely hands-off and goes live within 48 hours. We manage everything — the writing and the sending — while the agency owns the audience. We build and grow the subscriber list from scratch with targeted local advertising, and can also invite an agency's existing database of past clients and enquiries to subscribe.
+Every Thursday morning we send the agency's professionally written newsletter, under their own brand, to their local audience. Each edition contains:
 
-The purpose is trust and visibility: sellers and landlords do not choose an agent at random, they choose the one they trust, recognise and see as the local expert. Turning up every week with valuable local content keeps the agency in front of homeowners all year round.
+- Good local news and what's on: positive stories from the area, new openings, and what's happening that weekend.
+- The property market update: up-to-the-minute local market data, explained in plain, jargon-free English.
+- The agency's Property of the Week, fetched automatically from the agency's own website.
 
-## Pricing
+## Why it works
 
-- £349 per month, which includes £100 per month of ad spend used to reach new local subscribers.
-- One newsletter per area, exclusive to the subscribing agency for as long as they subscribe. When an agency stops, the area becomes available again.
+Sellers and landlords do not choose an estate agent at random. They go with the name they already know, recognise and trust as the local expert. Agents who only make contact when someone is ready to move right now compete with every other agent for a small, highly competitive slice of the market. A weekly newsletter reaches everyone else and builds the relationship early, so when the time comes to sell or let there is only one agent they call.
+
+## How it works
+
+- Completely hands-off. The agency tells us about their agency and their target patches, and they are live within 48 hours.
+- We handle the writing, the formatting and the sending.
+- Zero-tech setup. We do everything, including the logo, the brand colours, and fetching the Property of the Week from the agency's site.
+- The agency owns the audience.
+
+## Building the audience
+
+- We grow the subscriber list every month from scratch, so an agency does not need an existing database.
+- £100 of the monthly fee is reinvested directly into social ads targeting homeowners in the agency's specific postcodes.
+- Agencies with an existing database of past clients and valuation leads can have those contacts uploaded safely and invited to subscribe.
+
+## Pricing and terms
+
+- £349 per month, all inclusive, no hidden fees.
+- Includes £100 per month of direct local ad spend.
+- Strict outcode (postcode) exclusivity: for as long as an agency is subscribed, no other agent in their area can buy the service, use the content, or access the local ad targeting. When an agency leaves, the area becomes available again.
+- No long-term contracts. We ask for three months to build traction, then it is rolling monthly.
+- 60-day guarantee: if we do not get the agency 100 subscribers within 60 days, they get every penny back, including the ad spend.
 
 ## Get started
 
-- Free sample: an agent can request a free sample newsletter to see what theirs would look like.
+- Free sample: an agent can enter their postcode to check whether their area is still available and claim a free sample newsletter.
 - Contact: hello@estateagentnewsletters.co.uk
 
 ## Links
 
-- [Home](https://estateagentnewsletters.co.uk/): Main landing page explaining the offering.
+- [Home](https://estateagentnewsletters.co.uk/): Landing page explaining the offering, pricing and guarantee.
