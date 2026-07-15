@@ -50,6 +50,12 @@
   h2{font-weight:900;font-size:clamp(2.1rem,4.6vw,3.1rem);line-height:1.1;letter-spacing:-.025em;max-width:22ch}
   p{font-size:1.35rem;color:var(--muted);max-width:54ch}
   .p + .p{margin-top:20px}
+  .p strong{color:var(--text);font-weight:700}
+  .sec--tint .p strong{color:var(--ink)}
+  .callout p strong{color:var(--text)}
+  .sec--tint .callout p strong{color:var(--ink)}
+  .ul .fine{color:var(--muted);font-weight:400}
+  .sec--tint .ul .fine{color:var(--ink-soft)}
   .sec--tint h2{color:var(--ink)}
   .sec--tint .p{color:var(--ink-soft)}
 
@@ -70,10 +76,10 @@
   .ul li{position:relative;padding-left:28px;font-size:1.35rem;color:var(--muted)}
   .ul li + li{margin-top:16px}
   .ul li::before{content:"";position:absolute;left:0;top:.62em;width:9px;height:9px;border-radius:50%;background:var(--pink)}
-  .ul b{color:var(--text);font-weight:700}
+  .ul b,.ul strong{color:var(--text);font-weight:700}
   .sec--tint .ul li{color:var(--ink-soft)}
   .sec--tint .ul li::before{background:var(--ink)}
-  .sec--tint .ul b{color:var(--ink)}
+  .sec--tint .ul b,.sec--tint .ul strong{color:var(--ink)}
 
   /* callout */
   .callout{margin-top:34px;padding:26px 28px;border-left:4px solid var(--pink);background:var(--bg-soft);border-radius:0 12px 12px 0;max-width:56ch}
@@ -163,8 +169,8 @@
       <div class="container">
         <h2>The hard truth about winning instructions.</h2>
         <p class="p">Sellers and landlords don&rsquo;t choose an estate agent at random. They go with the name they already know, recognise and trust as the local expert.</p>
-        <p class="p">If you only talk to people when they&rsquo;re ready to move right now, you&rsquo;re fighting every other agent on the high street for a tiny slice of the market.</p>
-        <p class="p">This newsletter is how you reach everyone else. You build the relationship early, so when they&rsquo;re finally ready to sell or let, there&rsquo;s only one agent they call.</p>
+        <p class="p">If you only talk to people when they&rsquo;re ready to move right now, you&rsquo;re fighting every other agent on the high street for a tiny, highly competitive slice of the market.</p>
+        <p class="p">This newsletter is how you reach everyone else. You build the relationship early, so when they&rsquo;re finally ready to sell or let, there&rsquo;s <strong>only one agent they call</strong>.</p>
       </div>
     </section>
 
@@ -175,13 +181,13 @@
         <p class="p">Every Thursday morning, we send your professionally written newsletter, under your brand, to your local audience.</p>
         <ul class="ul">
           <li><b>Good local news and what&rsquo;s on.</b> The positive stories from your area, new openings, and what&rsquo;s happening this weekend.</li>
-          <li><b>The property market update.</b> Up-to-the-minute local market data, explained in plain English.</li>
-          <li><b>Your Property of the Week.</b> Keeping your active listings front and centre.</li>
+          <li><b>The property market update.</b> Up-to-the-minute local market data, explained in plain, jargon-free English.</li>
+          <li><b>Your Property of the Week.</b> Keeping your active listings front and centre. <span class="fine">We pull it straight from your site, so you don&rsquo;t lift a finger.</span></li>
         </ul>
 
         <div class="callout">
           <h3>How hands-off is it?</h3>
-          <p>Completely. Tell us about your agency and your target patches and you&rsquo;re live within 48 hours. We handle the writing and the sending, you focus on listings. You own the audience, we just run the engine.</p>
+          <p>Completely. Tell us about your agency and your target patches, and you&rsquo;re <strong>live within 48 hours</strong>. We handle the writing, the formatting and the sending; you focus on listings. You own the audience, we just run the engine.</p>
         </div>
 
         <div class="shot">[ Screenshot of your example newsletter goes here ]</div>
@@ -197,7 +203,7 @@
         <p class="p">We take £100 of your monthly fee and reinvest it directly into social ads targeting homeowners in your specific postcodes.</p>
         <ul class="ul">
           <li><b>No past database? No problem.</b> We use the ad budget to bring in fresh local subscribers.</li>
-          <li><b>Have a database of old clients and valuation leads?</b> We&rsquo;ll upload them safely and invite them to subscribe, giving you an instant head start with people who already know your name.</li>
+          <li><b>Have an existing database?</b> We&rsquo;ll upload your old clients and past valuation leads safely and invite them to subscribe, giving you an instant head start with people who already know your name.</li>
         </ul>
       </div>
     </section>
@@ -206,14 +212,21 @@
     <section class="sec">
       <div class="container">
         <h2>Lock out your competitors.</h2>
-        <p class="p">We operate a strict outcode exclusivity policy. Secure your postcodes and the door closes behind you. For as long as you&rsquo;re with us, no other agent in your area can buy the service, use our content, or access our local ad targeting.</p>
+        <p class="p">We operate a <strong>strict outcode exclusivity policy</strong>. Secure your postcodes and the door closes behind you. For as long as you&rsquo;re with us, no other agent in your area can buy the service, use our content, or access our local ad targeting.</p>
 
         <p class="price"><span class="amount">£349 per month</span></p>
-        <p class="price-sub">All inclusive. Includes £100 per month of direct local ad spend. No hidden fees.</p>
+        <p class="price-sub">All inclusive. No hidden fees.</p>
+        <ul class="ul">
+          <li><b>Strict postcode exclusivity.</b> Lock out your competitors.</li>
+          <li><b>£100 per month direct ad spend.</b> We fund and run the subscriber growth.</li>
+          <li><b>100% zero-tech setup.</b> We do it all: your logo, your brand colours, and your Property of the Week fetched straight from your site.</li>
+          <li><b>No long-term contracts.</b> We ask for three months to build traction, then it&rsquo;s rolling monthly.</li>
+          <li><b>Our 60-day guarantee.</b> If we don&rsquo;t get you <strong>100 subscribers</strong> in 60 days, you get every penny back, ad spend included.</li>
+        </ul>
 
         <div class="callout">
           <h3>The ROI is simple.</h3>
-          <p>Win a single extra instruction and it&rsquo;s paid for itself many times over.</p>
+          <p>Win a single extra instruction and it&rsquo;s <strong>paid for itself many times over</strong>.</p>
         </div>
       </div>
     </section>
@@ -226,7 +239,7 @@
         <form class="field-row" onsubmit="return false;">
           <input class="cta-input" type="text" name="postcode" placeholder="Your postcode" aria-label="Your postcode" required>
           <input class="cta-input" type="email" name="email" placeholder="you@youragency.co.uk" aria-label="Your email address" required>
-          <button class="cta-btn" type="submit">Get my free sample</button>
+          <button class="cta-btn" type="submit">Check availability and get free sample</button>
         </form>
       </div>
     </section>
