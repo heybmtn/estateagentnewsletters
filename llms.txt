@@ -16,7 +16,7 @@ Sellers and landlords do not choose an estate agent at random. They go with the 
 
 ## How it works
 
-- Completely hands-off. The agency tells us about their agency and their target patches, and they are live within 48 hours.
+- Completely hands-off. The agency tells us about their agency and the postcodes they want, and they are live within 48 hours.
 - We handle the writing, the formatting and the sending.
 - Zero-tech setup. We do everything, including the logo, the brand colours, and fetching the Property of the Week from the agency's site.
 - The agency owns the audience.
