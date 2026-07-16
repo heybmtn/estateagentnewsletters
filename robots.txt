@@ -1,5 +1,5 @@
 # robots.txt for https://estateagentnewsletters.co.uk/
-# Marketing site — everything is public and crawlable.
+# Marketing site. Everything is public and crawlable.
 
 User-agent: *
 Allow: /

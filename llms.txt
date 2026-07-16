@@ -1,45 +1,48 @@
 # Estate Agent Newsletters
 
-> Estate Agent Newsletters is a done-for-you, weekly local email newsletter service for UK estate agents. It builds trust with local homeowners months before they are ready to move, so the agency wins more instructions from sellers and landlords. Each newsletter is exclusive to one agency per postcode area.
+> Estate Agent Newsletters is a done-for-you monthly email service for UK estate agents. We write and send a monthly market update to an agency's existing database of old contacts, so those people remember the agency when they come to sell. The agency does nothing. £149 per month, one agent per area.
 
-## What it is
+## The problem it solves
 
-Every Thursday morning we send the agency's professionally written newsletter, under their own brand, to their local audience. Each edition contains:
+Every estate agency CRM is full of people who enquired two to five years ago and then went quiet: buyers the agency sold to, vendors who never went ahead, and valuations that never happened. Many still live nearby and already know the agency. But teams are busy with today's deals, so nobody follows up, the contact goes cold, and the database sits unused. Every year some of those homeowners decide to sell, and they use another agent simply because the first agent slipped their mind.
 
-- Good local news and what's on: positive stories from the area, new openings, and what's happening that weekend.
-- The property market update: up-to-the-minute local market data, explained in plain, jargon-free English.
-- The agency's Property of the Week, fetched automatically from the agency's own website.
+## What the service does
 
-## Why it works
+We write and send one email a month to the agency's database. Once a month with clear, useful market news is enough to keep an agency top of mind.
 
-Sellers and landlords do not choose an estate agent at random. They go with the name they already know, recognise and trust as the local expert. Agents who only make contact when someone is ready to move right now compete with every other agent for a small, highly competitive slice of the market. A weekly newsletter reaches everyone else and builds the relationship early, so when the time comes to sell or let there is only one agent they call.
+- We do all the work. There is no software for the agency to learn and no templates to edit.
+- No time is required from the agency's team. Nobody has to chase anyone.
+- The emails read like a personal note from the agent. They are simple, plain text, and built to land in the main inbox rather than the promotions tab.
+
+## Inside every monthly update
+
+- The national picture: what is happening to mortgage rates, prices, and how many homes are selling, in plain English.
+- Local numbers: what homes sold for near the recipient, and how quickly they sold.
+- Useful advice: practical tips on getting a home ready to sell, or looking after a rental.
+
+## The 2% rule
+
+A database is only worth something if it is used. On a database of 5,000 old contacts, if 2 in every 100 get back in touch, that is 100 people back in the agency's pipeline, and 100 local homeowners talking to them again. The agency already owns those contacts and did not pay anyone for them.
 
 ## How it works
 
-- Completely hands-off. The agency tells us about their agency and the postcodes they want, and they are live within 48 hours.
-- We handle the writing, the formatting and the sending.
-- Zero-tech setup. We do everything, including the logo, the brand colours, and fetching the Property of the Week from the agency's site.
-- The agency owns the audience.
-
-## Building the audience
-
-- We grow the subscriber list every month from scratch, so an agency does not need an existing database.
-- £100 of the monthly fee is reinvested directly into social ads targeting homeowners in the agency's specific postcodes.
-- Agencies with an existing database of past clients and valuation leads can have those contacts uploaded safely and invited to subscribe.
+1. The agency sends its list, or lets us connect to its CRM.
+2. We tidy the list, handle the GDPR side, and set up a separate sending address so the agency's normal email stays safe.
+3. We add the agency's logo, write the content, and send the emails.
 
 ## Pricing and terms
 
-- £349 per month, all inclusive, no hidden fees.
-- Includes £100 per month of direct local ad spend.
-- Strict outcode (postcode) exclusivity: for as long as an agency is subscribed, no other agent in their area can buy the service, use the content, or access the local ad targeting. When an agency leaves, the area becomes available again.
-- No long-term contracts. We ask for three months to build traction, then it is rolling monthly.
-- 60-day guarantee: if we do not get the agency 100 subscribers within 60 days, they get every penny back, including the ad spend.
+- £149 per month.
+- One agent per area. Once an agency claims its postcodes, no other agent nearby can use the service.
+- We set everything up: the list, the sending address, and the monthly send.
+- GDPR compliant. The agency's database stays theirs and is never shared.
+- No contracts. Cancel anytime.
 
 ## Get started
 
-- Free sample: an agent can enter their postcode to check whether their area is still available and claim a free sample newsletter.
+- An agent can check whether their postcode is still available and request a free mockup of their own monthly update.
 - Contact: hello@estateagentnewsletters.co.uk
 
 ## Links
 
-- [Home](https://estateagentnewsletters.co.uk/): Landing page explaining the offering, pricing and guarantee.
+- [Home](https://estateagentnewsletters.co.uk/): Landing page explaining the service, the 2% rule, pricing and terms.
